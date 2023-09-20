@@ -1,5 +1,5 @@
 #RacshanaRavichandran
-Hello All! 😇
+Hello All! 
 <h1 align="center">Hi 👋, I'm Racshana Ravichandran</h1>
 <h3 align="center">I'm a 3rd Year(Final Year) Undergraduate</h3>
 
