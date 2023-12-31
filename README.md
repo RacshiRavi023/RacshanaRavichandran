@@ -1,7 +1,7 @@
 #RacshanaRavichandran
 Hello All! 
 <h1 align="center">Hi 👋, I'm Racshana Ravichandran</h1>
-<h3 align="center">I'm a 3rd Year(Final Year) Undergraduate</h3>
+<h3 align="center"> Quality Assurance Engineer Intern </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
